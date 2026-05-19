@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">COSTOAPP</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="first_fragment_label">Listado Mediciones</string>
+    <string name="second_fragment_label">Registro Medidor</string>
+    <string name="registro_medidor">Registro Medidor</string>
+    <string name="hint_medidor">Medidor</string>
+    <string name="hint_fecha">Fecha</string>
+    <string name="medidor_de">Medidor de:</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="registrar_medicion">Registrar medicion</string>
+    <string name="icono_medidor">Icono del medidor</string>
+    <string name="campo_vacio">Por favor complete todos los campos</string>
+    <string name="registro_guardado">Registro guardado correctamente</string>
+</resources>
